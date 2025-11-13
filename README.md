@@ -12,14 +12,7 @@
 
 安装依赖：
 ```bash
-# 方式一：手动
 pip install -r requirements.txt
-
-# 方式二：脚本（Linux/macOS）
-bash create_venv_linux.sh
-
-# 方式三：脚本（Windows）
-create_venv_windows.bat
 ```
 
 
